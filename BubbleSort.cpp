@@ -2,7 +2,7 @@
 
 #define N 6
 
-void main(void)
+int main(void)
 {
     int a[]={80,41,35,90,40,20};
     int i,t,j;
